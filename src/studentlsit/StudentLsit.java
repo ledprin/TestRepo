@@ -42,9 +42,10 @@ public class StudentLsit {
             System.out.println(list[i].getName()+" "+list[i].getSid());
         }
         
-        
+        // Wassup, you just used fetch. Good job
         
     }
     
 }
+
 
