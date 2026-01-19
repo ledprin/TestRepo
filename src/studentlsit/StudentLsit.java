@@ -43,7 +43,7 @@ public class StudentLsit {
         }
         
         // Wassup, you just used fetch. Good job
-        
+        //  And  then you merged. W
     }
     
 }
