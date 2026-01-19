@@ -42,10 +42,7 @@ public class StudentLsit {
             System.out.println(list[i].getName()+" "+list[i].getSid());
         }
         
-        // Wassup, you just used fetch. Good job
-        //  And  then you merged. W
-        // SO does it change if I just commit?
-        // Or do I have to push after I commit?
+        //YOOO THIS IS THE BRANCH COPY WOOOOOAAH
     }
     
 }
