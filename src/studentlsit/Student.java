@@ -6,7 +6,7 @@ package studentlsit;
 
 /**
  *
- * @author Leste
+ * @author ledprin
  */
 public class Student {
     private String name;
